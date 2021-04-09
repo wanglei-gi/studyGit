@@ -3,3 +3,4 @@ git add opetion.txt(上传至缓存区，但是没有上传至正式库，可以
 git commit -m "注释"(从缓存去上传至正式库)
 git status(查看当前本地与git仓库的当前状态)
 git diff(查看文件本地与仓库的不同点)
+git log(查看历史提交记录)【git log --pretty=oneline(简化展示信息)】
