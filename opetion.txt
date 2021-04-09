@@ -1,0 +1,3 @@
+上传文件 
+git add opetion.txt(上传至缓存区，但是没有上传至正式库)
+git commit opetion.txt(从缓存去上传至正式库)
